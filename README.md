@@ -6,5 +6,5 @@ simulateNeutralWF3Alleles.R produces Figure 3;
 simulateNeutralWF4Alleles.R produces Figures 5 and 6;
 The parameters 
   N (population size), 
-  alpha12 etc., Pi and phi (parameterising the rate matirix
+  alpha12 etc., Pi and phi (parameterising the rate matrix)
 can be adjusted, but not K (number of alleles)
